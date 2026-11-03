@@ -1,5 +1,5 @@
 # WOW-1.12-Hunter-Ammo-Addon
-Hunter Addons for World of Warcraft 1.12.1
+Hunter Ammo Addons for World of Warcraft 1.12.1
 
 /ammo
 /ammo warn 200
