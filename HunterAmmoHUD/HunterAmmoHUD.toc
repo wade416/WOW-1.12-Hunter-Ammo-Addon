@@ -1,0 +1,10 @@
+## Interface: 11200
+## Author: Ekko Agent
+## Title: |CFF00FFCC[|r|CFF66E0FF弹药|r|CFF00FFCC] 猎人弹药监控|r
+## Notes-zhCN: 科技感猎人弹药HUD：剩余弹药、堆叠、消耗速率、剩余时间预估、低弹药预警。/ammo 查看命令。
+## Notes: Sci-fi style hunter ammo HUD. Type /ammo for commands.
+## SavedVariables: HunterAmmoHUDDB
+## Version: 1.0.0
+
+core.lua
+ui.lua
